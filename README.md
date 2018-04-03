@@ -10,4 +10,4 @@ The project consists of a complete CRUD using CoreData to persist informations, 
 - Auto Layout
 
 ## Demo:
-![b](https://user-images.githubusercontent.com/29257910/31081332-eaf4a858-a761-11e7-90e9-feaa52d16b16.gif)
+![demo](https://user-images.githubusercontent.com/29257910/38271321-88eadf48-375c-11e8-8ffa-b9355a7b4cdd.gif)
